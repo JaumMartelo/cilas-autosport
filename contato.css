@@ -1,0 +1,51 @@
+body{
+	margin: 0;
+}
+header{
+	
+}
+nav{
+	text-align: center;
+	background-color: black;
+}
+	li{
+		display: inline-block;
+		margin: 10px 100px 10px 0;
+
+
+
+	}	
+		a{
+			color: white;
+			text-decoration: none;
+		}
+		.logo{
+			position: float;
+			background-image: url("imagens/capa.jpg");
+			background-repeat: no-repeat;
+			background-size: 100% 400px;
+			height: 400px;
+			margin: 0;
+		}
+
+
+	
+	.center{
+		height: 40ex;
+		width: 100ex;
+	}
+
+#form{
+	padding: 2em;
+	text-align: center;
+	background-color: #8a8a8a
+}
+p{
+	m
+}
+input{
+	margin-left: 20em;
+}
+textarea{
+	margin-left: 27em;
+}

@@ -1,0 +1,34 @@
+#all{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+        
+        @media screen and (max-width: 800px){
+            .box-example{
+                width: 100vw;
+            }
+        }
+.box-example{
+            
+            float: left;
+            width: 25vw;
+            height: 15em;
+            background-image: url("imagens/hb20.jpg");
+            background-repeat: no-repeat;
+            
+            margin: 1.5rem;
+            
+            box-sizing: border-box;
+            font-size: 0.8em;
+        }
+        .class-inside{
+            margin: 15em 0 0 0;
+        }
+
+      h1{
+            text-align: center;
+            font-family: "segoe script", segoe;
+
+      }

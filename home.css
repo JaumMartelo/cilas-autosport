@@ -1,0 +1,72 @@
+body{
+	margin: 0;
+}
+header{
+	
+}
+nav{
+	text-align: center;
+	background-color: black;
+}
+	li{
+		display: inline-block;
+		margin: 10px 100px 10px 0;
+
+
+
+	}	
+		a{
+			color: white;
+			text-decoration: none;
+		}
+		.logo{
+			position: float;
+			background-image: url("imagens/capa.jpg");
+			background-repeat: no-repeat;
+			background-size: 100% 400px;
+			height: 400px;
+			margin: 0;
+		}
+
+
+	
+	.center{
+		height: 40ex;
+		width: 100ex;
+	}
+h2{
+	font-size: 40px
+}
+div{
+	
+}		
+	}
+	.box{
+		margin: 100px;
+
+		float: left;
+
+	}
+	.carros{
+		float: right;
+	}
+	.left1{
+		height: 20ex;
+		float: right;
+	}
+	footer{
+	padding-left: 1em;
+	margin: 0;
+	color: white;
+	vertical-align: top;
+	background-color: black;
+	
+}
+p{
+	margin: 0;
+	padding-bottom: 0.8em;
+}
+h2{
+	margin: 0;
+	padding: 0.8em;
+}
